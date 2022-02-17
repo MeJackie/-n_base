@@ -1,9 +1,9 @@
 /**
- * @Author: hanjianjian
+ * @Author: jackie
  * @Descripttion: 10进制转换n进制转换
  * @version:
  * @Date: 2022-02-16 14:33:26
- * @LastEditors: hanjianjian
+ * @LastEditors: jackie
  * @LastEditTime: 2022-02-17 09:50:40
  */
 package main
